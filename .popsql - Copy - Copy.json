@@ -1,0 +1,18 @@
+{
+  "servers": [
+    {
+      "id": "81c66980-abd1-11ea-8675-3dfaeeae201a",
+      "name": "PopSQL Sample Data",
+      "client": "postgresql",
+      "host": "sample-data.popsql.io",
+      "port": "5432",
+      "user": null,
+      "password": null,
+      "database": "world",
+      "connectOnStartup": true,
+      "isSample": true,
+      "complete": true,
+      "ssl": false
+    }
+  ]
+}
